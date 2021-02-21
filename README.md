@@ -1,5 +1,5 @@
 # library-management-system
-Library Management System with GUI and Database
+Library Management System with GUI and Database along with Few Unit Tests
 
 This is a Library Management System in Python that uses Tkinter for GUI and MySQL database system for CRUD operation on the database.
 
